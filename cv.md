@@ -1,4 +1,4 @@
-## CV
+## Curriculum vitae
 
 ## Name:
 Ilgizar Ismakaev
