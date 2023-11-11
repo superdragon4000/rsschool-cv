@@ -4,12 +4,10 @@
 Ilgizar Ismakaev
 
 ## Contact information:
-# Mobile phone: 
+### Mobile phone: 
 +79226824337
-# Telegram: 
+### Telegram: 
 @superdragon4000
-
-# I strive to be better everyday. I like to code, going to a gym. My hobbies are simracing, diy and repairing old electronics.
 
 ## Skills: 
 Javascript, Typescript, NodeJs, NestJs, Express, TypeOrm, SQL, React
@@ -25,3 +23,5 @@ Andersen Lab, Kazan city - Web Development Internship
 ## Languages:
 Russian - native
 English - B1 
+
+### I strive to be better everyday. I like to code, going to a gym. My hobbies are simracing, diy and repairing old electronics.
